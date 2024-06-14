@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 ![Lei Zeng's Github Stats](https://github-readme-stats.vercel.app/api?username=zengxiaolei&include_all_commits=true&rank_icon=default)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zengxiaolei&layout=donut)
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/zengxiaolei/zengxiaolei/output/github-contribution-grid-snake-dark.svg)
+![snake animation](https://github.com/zengxiaolei/zengxiaolei/blob/output/github-contribution-grid-snake2.svg)
